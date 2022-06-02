@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 41" width="46" height="41">
+	<title>home page - drop down button-02 (1)-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #ffffff;stroke-width: 1.2 } 
+	</style>
+	<path id="Layer" class="s0" d="m13.8 19.8v-12.2l8.5 6.1 8.4 6.1-8.4 6.1-8.5 6.1v-12.2z"/>
+	<path id="Layer" class="s1" d="m9.8 20.4v-20l14.1 10 14.1 10-14.1 10-14.1 10v-20z"/>
+</svg>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://urban-enigma.com/sitemap.xml

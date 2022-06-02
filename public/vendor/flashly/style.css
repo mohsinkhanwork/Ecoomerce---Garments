@@ -1,0 +1,40 @@
+/*===========================================
+ * Common
+ *===========================================*/
+
+a.gallery {
+	margin:5px;
+	padding:5px;
+	background:#fff;
+	box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+a.gallery:hover {
+	transition:all .3s;
+	transform:scale(1.1);
+}
+a.gallery img {
+	height:100px;
+}
+a.custom {
+	display:inline-block;
+	padding:10px;
+	color:#fff;
+	background:#000;
+	border:3px solid #fff;
+	box-shadow:0 0 10px rgba(0,0,0,0.2);
+	text-decoration:none;
+}
+a.custom:hover {
+	transition:all .3s;
+	transform:scale(1.1);
+}
+#inline,
+.inline {
+	padding:15px;
+	text-align:left;
+}
+/*===========================================
+ * Media
+ *===========================================*/
+@media only screen and (max-width: 1024px) {
+}
